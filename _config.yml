@@ -1,0 +1,28 @@
+name: "YOUNG MEN'S NATION"
+favicon: null
+layout_spectrum: 0.6464445977471769
+typography_spectrum: 0.3748026741668582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.930528525961563
+  lightness: 0.6194925082381815
+  saturation: 0.22904832242056727
+  rhythmicContrast: 0.3187644884455949
+purpose: []
